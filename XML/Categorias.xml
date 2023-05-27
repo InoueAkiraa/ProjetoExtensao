@@ -1,0 +1,115 @@
+<Categorias>
+    <Categoria>
+        <Codigo>1</Codigo>
+        <Descricao>Alimento Infantil</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+    
+    <Categoria>
+        <Codigo>2</Codigo>
+        <Descricao>Suplementos</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>3</Codigo>
+        <Descricao>Bebidas</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>4</Codigo>
+        <Descricao>Biscoitos, Bolos e Bolachas</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>5</Codigo>
+        <Descricao>Carnes</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>6</Codigo>
+        <Descricao>Congelados</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>7</Codigo>
+        <Descricao>Conservas</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>8</Codigo>
+        <Descricao>Doces, Balas, Chocolates e Cia</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>9</Codigo>
+        <Descricao>Farinhas, Cereais e Complementos</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>10</Codigo>
+        <Descricao>Fast-Food, Aperitivos e Petiscos</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>11</Codigo>
+        <Descricao>Frios e Embutidos</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>12</Codigo>
+        <Descricao>Frutas</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>13</Codigo>
+        <Descricao>Legumes, Verduras e Grãos</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>14</Codigo>
+        <Descricao>Massas</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>15</Codigo>
+        <Descricao>Molhos, Caldos e Condimentos</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>16</Codigo>
+        <Descricao>Ovos, Leite, Queijo e Cia</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>17</Codigo>
+        <Descricao>Pães</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>18</Codigo>
+        <Descricao>Sopas e Cremes</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+
+    <Categoria>
+        <Codigo>19</Codigo>
+        <Descricao>Diversos</Descricao>
+        <Ativo>0</Ativo>
+    </Categoria>
+</Categorias>

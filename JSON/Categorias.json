@@ -1,0 +1,117 @@
+{
+    "Categorias": [
+        {
+            "Codigo" : 1,
+            "Descricao" : "Alimento Infantil",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 2,
+            "Descricao" : "Bebidas",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 3,
+            "Descricao" : "Bebidas",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 4,
+            "Descricao" : "Biscoitos, Bolos e Bolachas",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 5,
+            "Descricao" : "Carnes",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 6,
+            "Descricao" : "Congelados",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 7,
+            "Descricao" : "Conservas",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 8,
+            "Descricao" : "Doces, Balas, Chocolates e Cia",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 9,
+            "Descricao" : "Farinhas, Cereais e Complementos",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 10,
+            "Descricao" : "Fast-Food, Aperitivos e Petiscos",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 11,
+            "Descricao" : "Frios & Embutidos",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 12,
+            "Descricao" : "Frutas",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 13,
+            "Descricao" : "Legumes, Verduras e Grãos",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 14,
+            "Descricao" : "Massas",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 15,
+            "Descricao" : "Molhos, Caldos e Condimentos",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 16,
+            "Descricao" : "Ovos, Leite, Queijo e Cia",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 17,
+            "Descricao" : "Pães",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 18,
+            "Descricao" : "Sopas & Cremes",
+            "Ativo" : 0
+        },
+
+        {
+            "Codigo" : 19,
+            "Descricao" : "Diversos",
+            "Ativo" : 0
+        }
+    ]
+}
