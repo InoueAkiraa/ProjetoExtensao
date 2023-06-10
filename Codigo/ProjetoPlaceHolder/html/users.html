@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script type="text/javascript">
+
+        $(function(){
+            var users = [];
+
+            $("#btnCarregar").click(function(){
+                GetAll();
+                MontarTabela();
+
+            });
+
+            function GetAll() {
+                var url = "https://jsonplaceholder.typicode.com/users";
+                $.ajax({
+                    url: url,
+                    method: "GET",
+                    dataType: "JSON",
+                    async: false,
+                    success: function(data){
+                        for (let index = 0; index < data.length; index++) {
+                            const element = data[index];
+                            users.push(element);
+                        }
+                        console.log(users);
+                    }
+                });
+            }
+
+            function MontarTabela(){
+                for (let index = 0; index < users.length; index++) {
+                    const element = users[index];
+                    var row = "";
+                     row += "<tr>";
+                     row += "<td>" + element.id+ "</td>";
+                     row += "<td>" + element.name+ "</td>";
+                     row += "<td>" + element.username+ "</td>";
+                     row += "<td>" + element.email+ "</td>";
+                     row += "</tr>";
+
+                     $("#tblUsers tbody").append(row);
+                }
+            }
+        });
+    </script>
+</head>
+<body>
+    <div> 
+        <button id="btnCarregar">Carregar</button>
+    </div>
+    <div>
+        <table id="tblUsers">
+            <th>
+                <tr>
+                    <td>ID</td>
+                    <td>Name</td>
+                    <td>UserName</td>
+                    <td>E-Mail</td>
+                </tr>
+            </th>
+            <tbody></tbody>
+        </table>
+
+    </div>
+</body>
+</html>
